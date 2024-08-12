@@ -77,3 +77,4 @@ Work log for 2024-03-13: changing animation
 Work log for 2025-01-09: Disabled some side btns
 Work log for 2025-01-09: Added scripts to toggle properly
 Work log for 2025-01-09: Added missing UI reference
+Work log for 2024-08-12: Updated Splashscreen
