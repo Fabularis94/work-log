@@ -71,3 +71,4 @@ Work log for 2024-12-20: Tracked script on canvases
 Work log for 2024-09-19: Updated app name
 Work log for 2024-09-19: Updated package name and starting language
 Work log for 2024-09-18: Updated splashscreen in hierarchy, updated disclaimer
+Work log for 2024-09-16: Imported more splashscreen pngs and updated app name
