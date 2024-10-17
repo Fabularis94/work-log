@@ -21,3 +21,4 @@ Work log for 2024-10-17: Merge branch 'default/feature/splashscreen into default
 Work log for 2024-10-17: Updated splashscreen
 Work log for 2024-10-17: Updated splashscreen
 Work log for 2024-10-17: Merge branch 'default/feature/scene-updates' into default/feature/ch-update'
+Work log for 2024-10-17: Updated logo in references
