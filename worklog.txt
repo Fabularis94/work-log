@@ -20,3 +20,4 @@ Work log for 2024-10-25: Revert 'Added new pictures, changed text in various cha
 Work log for 2024-10-17: Merge branch 'default/feature/splashscreen into default/feature/ch-update'
 Work log for 2024-10-17: Updated splashscreen
 Work log for 2024-10-17: Updated splashscreen
+Work log for 2024-10-17: Merge branch 'default/feature/scene-updates' into default/feature/ch-update'
