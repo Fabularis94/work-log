@@ -9,3 +9,4 @@ Work log for 2024-10-29: Updated screening picture and text update
 Work log for 2024-10-29: Updated 3rd UI button image
 Work log for 2024-10-29: Updated references and popup windows
 Work log for 2024-10-21: Added new pictures, changed text in various chapters
+Work log for 2024-10-21: Merge branch 'default/feature/splashscreen' into default/feature/ch-update'
