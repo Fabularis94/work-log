@@ -13,3 +13,4 @@ Work log for 2024-10-21: Merge branch 'default/feature/splashscreen' into defaul
 Work log for 2024-10-22: Updated text box size
 Work log for 2024-10-24: Updated arrow
 Work log for 2024-10-24: Updated texts in infographics
+Work log for 2024-10-25: Text changes in popups
