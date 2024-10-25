@@ -15,3 +15,4 @@ Work log for 2024-10-24: Updated arrow
 Work log for 2024-10-24: Updated texts in infographics
 Work log for 2024-10-25: Text changes in popups
 Work log for 2024-10-25: Merge branch 'default/feature/update-us'
+Work log for 2024-10-25: Revert 'Updated screening image and prev text'
