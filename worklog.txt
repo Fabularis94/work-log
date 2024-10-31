@@ -30,3 +30,4 @@ Work log for 2024-11-05: Added splashscreen
 Work log for 2024-11-04: Updated Splashscreen
 Work log for 2024-08-12: Updated dis text and updated screen image
 Work log for 2024-08-12: Updated splash screen
+Work log for 2024-10-31: Updated splashscreen
