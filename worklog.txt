@@ -26,3 +26,4 @@ Work log for 2024-10-17: Merge remote-tracking branch 'origin/default/feature/sc
 Work log for 2024-10-16: Updated screen image and pre text
 Work log for 2024-10-16: Updated screen image and pre text again
 Work log for 2024-10-18: Updated right button in screening
+Work log for 2024-11-05: Added splashscreen
