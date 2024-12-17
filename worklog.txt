@@ -81,3 +81,4 @@ Work log for 2024-08-12: Updated Splashscreen
 Work log for 2024-08-19: Updated default language
 Work log for 2024-08-19: Updated app name and starting language
 Work log for 2024-08-19: Updated app name
+Work log for 2024-12-17: Updated camera position and added a button
