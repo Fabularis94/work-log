@@ -75,3 +75,4 @@ Work log for 2024-09-16: Imported more splashscreen pngs and updated app name
 Work log for 2024-03-13: Updated chart
 Work log for 2024-03-13: changing animation
 Work log for 2025-01-09: Disabled some side btns
+Work log for 2025-01-09: Added scripts to toggle properly
