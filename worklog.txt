@@ -140,3 +140,4 @@ Work log for 2025-02-06: Increased parent size
 Work log for 2025-02-06: Fixed smoke size
 Work log for 2025-01-09: Disabled some side btns
 Work log for 2025-01-09: Added scripts to toggle properly
+Work log for 2025-01-09: Added missing UI reference
