@@ -112,3 +112,4 @@ Work log for 2025-01-13: Fixed billboards
 Work log for 2025-01-13: Updated billboard zoom
 Work log for 2025-01-13: Updated first billboard
 Work log for 2025-01-10: Updated package version
+Work log for 2025-01-10: Removed UI reference
