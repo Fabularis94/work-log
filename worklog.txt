@@ -119,3 +119,4 @@ Work log for 2025-01-10: Added missing reference
 Work log for 2025-01-10: Reduced clickable area of buttons
 Work log for 2025-01-10: Added tracker to button
 Work log for 2025-01-10: Added raycaster
+Work log for 2025-01-10:  included platforms to make user load
