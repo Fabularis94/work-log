@@ -59,3 +59,4 @@ Work log for 2025-01-10: Fixed references not loading properly, disabled help bt
 Work log for 2025-01-10: Updated position and text
 Work log for 2025-01-10: Added missing reference
 Work log for 2025-01-10: Reduced clickable area of buttons
+Work log for 2025-01-10: Added tracker to button
