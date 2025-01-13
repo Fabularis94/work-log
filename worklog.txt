@@ -46,3 +46,4 @@ Work log for 2025-01-14: Updated script for full UI
 Work log for 2025-01-14: Added script
 Work log for 2025-01-14: Fixed particle appearing in the wrong chapter
 Work log for 2025-01-14: Fixed button
+Work log for 2025-01-13: Fixed quiz not displaying
