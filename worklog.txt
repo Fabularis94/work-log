@@ -107,3 +107,4 @@ Work log for 2025-01-14: Fixed button
 Work log for 2025-01-13: Fixed quiz not displaying
 Work log for 2025-01-13: Blurred billboard
 Work log for 2025-01-13: Fixed billboards not closing
+Work log for 2025-01-13: Updated billboard
