@@ -51,3 +51,4 @@ Work log for 2025-01-13: Blurred billboard
 Work log for 2025-01-13: Fixed billboards not closing
 Work log for 2025-01-13: Updated billboard
 Work log for 2025-01-13: Fixed billboards
+Work log for 2025-01-13: Updated billboard zoom
