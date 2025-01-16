@@ -92,3 +92,4 @@ Work log for 2025-01-20: Removed dragg
 Work log for 2024-09-30: Updated splashscreen again
 Work log for 2024-08-07: Updated id
 Work log for 2024-08-07: Updated id
+Work log for 2025-01-16: Reversed script change as it caused unexpected results
