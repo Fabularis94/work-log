@@ -95,3 +95,4 @@ Work log for 2024-08-07: Updated id
 Work log for 2025-01-16: Reversed script change as it caused unexpected results
 Work log for 2025-01-16: Made billboards moveable
 Work log for 2025-01-17: Disabled billboard outside of chapter
+Work log for 2025-01-17: Removed store scripts
