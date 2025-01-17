@@ -40,3 +40,4 @@ Work log for 2025-01-17: Disabled billboard outside of chapter
 Work log for 2025-01-17: Removed store scripts
 Work log for 2025-01-17: Moved collider, removed script doublettes
 Work log for 2025-01-17: Remade billboard
+Work log for 2025-01-17: Added grab
