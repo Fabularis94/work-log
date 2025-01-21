@@ -167,3 +167,4 @@ Work log for 2025-01-21: Added collider to title
 Work log for 2025-01-21: Removed collider
 Work log for 2025-01-21: Changed collider back
 Work log for 2025-01-21: Added correct collider
+Work log for 2025-01-21: Disabled billboard
