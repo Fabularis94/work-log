@@ -87,3 +87,4 @@ Work log for 2024-12-18: Added content
 Work log for 2024-12-18: Enabled simulation and added Content
 Work log for 2025-01-21: Changed collider parent, removed dragg 
 Work log for 2025-01-21: Added dragg
+Work log for 2025-01-21: Multi UI fix
