@@ -159,3 +159,4 @@ Work log for 2025-01-22: Added billboard zoom script
 Work log for 2025-01-22: Fixed billboard position
 Work log for 2025-01-22: Fixed background
 Work log for 2025-01-22: camera direction starts off
+Work log for 2025-01-22: Added script face camera and toggle script
