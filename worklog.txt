@@ -158,3 +158,4 @@ Work log for 2025-01-22: Added billboard open position, removed redundant script
 Work log for 2025-01-22: Added billboard zoom script
 Work log for 2025-01-22: Fixed billboard position
 Work log for 2025-01-22: Fixed background
+Work log for 2025-01-22: camera direction starts off
