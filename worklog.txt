@@ -149,3 +149,4 @@ Work log for 2024-12-17: Updated camera position and added a button
 Work log for 2024-12-19: Added script to remove missing scripts
 Work log for 2024-12-18: Added content
 Work log for 2024-12-18: Enabled simulation and added Content
+Work log for 2025-01-23: Configured billboard
