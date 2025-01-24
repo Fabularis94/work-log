@@ -178,3 +178,4 @@ Work log for 2025-01-27: Made sure correct method was invoked, fixed animation
 Work log for 2025-01-27: Stopped billboard
 Work log for 2025-01-27: Added check so Reset doesn't get called before Start
 Work log for 2025-01-24: Position fixes billboard
+Work log for 2025-01-24: Updated script to make it more user friendly
