@@ -181,3 +181,4 @@ Work log for 2025-01-24: Position fixes billboard
 Work log for 2025-01-24: Updated script to make it more user friendly
 Work log for 2025-01-24: Reattached lost references
 Work log for 2025-01-24: Made all billboards reset
+Work log for 2025-01-24: Added gameobject resetter script
