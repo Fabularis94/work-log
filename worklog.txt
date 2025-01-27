@@ -173,3 +173,4 @@ Work log for 2025-01-27: Fixed more missing references
 Work log for 2025-01-27: Fixed 2nd billboard not resetting
 Work log for 2025-01-27: Fixed position of images
 Work log for 2025-01-27: Added missing images references
+Work log for 2025-01-27: Added transform reset script
