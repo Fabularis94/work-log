@@ -175,3 +175,4 @@ Work log for 2025-01-27: Fixed position of images
 Work log for 2025-01-27: Added missing images references
 Work log for 2025-01-27: Added transform reset script
 Work log for 2025-01-27: Made sure correct method was invoked, fixed animation
+Work log for 2025-01-27: Stopped billboard
