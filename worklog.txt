@@ -185,3 +185,4 @@ Work log for 2025-01-24: Added gameobject resetter script
 Work log for 2025-01-28: Billboards no longer try to escape
 Work log for 2025-01-28: Fixed billboards not resetting
 Work log for 2025-01-28: Scaled up billboard
+Work log for 2025-01-28: Fixed animation in chapter
