@@ -187,3 +187,4 @@ Work log for 2025-01-28: Fixed billboards not resetting
 Work log for 2025-01-28: Scaled up billboard
 Work log for 2025-01-28: Fixed animation in chapter
 Work log for 2025-02-10: Increased btn size in part 2
+Work log for 2025-02-10: Enabled close btn when billboard is open
