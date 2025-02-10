@@ -186,3 +186,4 @@ Work log for 2025-01-28: Billboards no longer try to escape
 Work log for 2025-01-28: Fixed billboards not resetting
 Work log for 2025-01-28: Scaled up billboard
 Work log for 2025-01-28: Fixed animation in chapter
+Work log for 2025-02-10: Increased btn size in part 2
