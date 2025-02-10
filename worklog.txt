@@ -189,3 +189,4 @@ Work log for 2025-01-28: Fixed animation in chapter
 Work log for 2025-02-10: Increased btn size in part 2
 Work log for 2025-02-10: Enabled close btn when billboard is open
 Work log for 2025-02-10: Fixed alpha
+Work log for 2025-02-10: Fixed closing area of billboards
