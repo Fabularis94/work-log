@@ -190,3 +190,4 @@ Work log for 2025-02-10: Increased btn size in part 2
 Work log for 2025-02-10: Enabled close btn when billboard is open
 Work log for 2025-02-10: Fixed alpha
 Work log for 2025-02-10: Fixed closing area of billboards
+Work log for 2025-02-10: Fixed closing area of billboard
